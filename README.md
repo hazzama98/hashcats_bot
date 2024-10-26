@@ -4,6 +4,8 @@ LINK GROUP BOT : [Link Bot](https://t.me/hash_cats_bot/app?startapp=XaYW537c3b)
 
 LINK GROUP TELEGRAM : [Link Channel](https://t.me/UxScript)
 
+LINK CHANNEL YOUTUBE : [Link Channel](https://youtube.com/@itbaart)
+
 ## Fitur:
 - Auto Claim Daily Reward 	 
 - Auto Do Task 
